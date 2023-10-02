@@ -1,2 +1,2 @@
 # genie-etc
-processing code re: genie
+processing code for genie, plasim
