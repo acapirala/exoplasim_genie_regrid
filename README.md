@@ -1,14 +1,14 @@
 # exoplasim to genie regrid
 processing code for genie, exoplasim
 
-currently: \n
-(1) reads in 'MOST_0009X.nc' files for the last 10 years of an exoplasim model run \n
-(2) extracts core data \n
-    (a) wind products \n
-    (b) planetary albedo \n
-(3) returns genie input files \n
-    (a) wind field input (tau, spd) files \n
-    (b) 1-d and 2-d planetary albedo files \n
+currently: \
+(1) reads in 'MOST_0009X.nc' files for the last 10 years of an exoplasim model run \
+(2) extracts core data \
+    - wind products \
+    - planetary albedo \
+(3) returns genie input files \
+    - wind field input (tau, spd) files \
+    - 1-d and 2-d planetary albedo files \
 
 in genie userconfig:
 
